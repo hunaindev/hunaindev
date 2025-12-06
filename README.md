@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack%20+%20AI%20Automation-brightgreen?style=for-the-badge&logo=webhooks" alt="Full Stack + AI Automation" />
-  <img src="https://img.shields.io/badge/Prod-Obsessed-blueviolet?style=for-the-badge&logo=azure-pipelines" alt="Product Obsessed" />
+  <img src="https://img.shields.io/badge/Observability-blueviolet?style=for-the-badge&logo=azure-pipelines" alt="Observability Focus" />
   <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&logo=brain" alt="Always Learning" />
 </p>
 
+<h1 align="center">Muhammad Hunain</h1>
 <p align="center">
-  <h1>Muhammad Hunain</h1>
-  <em>Full-stack + AI automation engineer translating product intent into intelligent, observable, and delightfully fast experiences.</em>
+  Full-stack + AI automation engineer translating product intent into intelligent, observable, and delightfully fast experiences.
 </p>
 
 <p align="center">
@@ -14,43 +14,65 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunaindev&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-## 🌟 Vision & Craft
-- Sculpt responsive, accessible front-ends with React and Next.js that feel bespoke for every user journey.
-- Build resilient back-end services (Node.js, FastAPI, PostgreSQL/Prisma) that power automation, analytics, and mission-critical data flows.
-- Infuse workflows with LLMs, RAG, and automation primitives so teams focus on outcome instead of repetitive toil.
+--- 
 
-## 💼 Experience Snapshot
-- Mentor and lead automation initiatives, bridging product strategy, design systems, and AI tooling.
-- Ship CI/CD-backed features, observable APIs, and automation blueprints for AI-first products with measurable outcomes.
-- Collaborate cross-functionally to align engineering, support, and growth teams around trust, telemetry, and automation targets.
+## 🎯 Hero Snapshot
+- **Product-minded engineer** with expertise across React/Next.js + Node/FastAPI + PostgreSQL/Prisma, shipping sleek customer experiences and automated workflows.
+- **AI automation advocate** who designs LangChain/RAG orchestration, vector DBs, and Zapier-style triggers to let teams focus on impact.
+- **Community builder** mentoring peers, publishing about observability/productivity automation, and speaking at meetups.
 
-## 🏆 Awards & Recognition
-- **Product Velocity Star** — Named champion for delivering a multi-service automation pipeline in under two sprints.
-- **AI Automation Showcase Winner** — Honored for the “Automation Studio Toolkit,” a prompt-driven platform that accelerates support workflows.
-- **Community Builder** — Featured mentor and speaker at local meetups on TypeScript tooling, observability, and productivity automation.
+--- 
 
-## 🎯 Highlight Projects
-- **AI Ops Dashboard** — Real-time observability cockpit with GPT incident summaries, automated triage, and alert routing to Slack + PagerDuty.
-- **Portfolio CMS Platform** — Next.js + Prisma + GitHub Actions pipeline powering instant previews, data-driven marketing copy, and automated deployments.
-- **Automation Studio Toolkit** — Internal platform that composes prompt-driven automations like low-code apps with vector DBs and Zapier-style triggers.
+## 📘 Landing Page Sections
+<table>
+  <tr>
+    <td valign="top">
+      <h3>About Me</h3>
+      <p>Every project I build starts from the user story, translates into clear architecture, and ends with measurable automation benefits.</p>
+      <ul>
+        <li>Sculpting responsive front-ends with React/Next.js, Tailwind, and elegant storytelling.</li>
+        <li>Building resilient back-ends (Node, FastAPI) with PostgreSQL, Prisma, and observability baked in.</li>
+        <li>Infusing AI automation (LangChain, OpenAI, vector stores) so teams can scale support and decisioning.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Stats</h3>
+      <ul>
+        <li>🏆 Product Velocity Star: delivered multi-service automation pipelines in under two sprints.</li>
+        <li>🎙️ Community Builder: mentor + speaker on TypeScript tooling, dev observability, and automation.</li>
+        <li>🧠 AI Automation Showcase Winner: recognized for the Automation Studio Toolkit.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 🎨 Visual Stats & Contributions
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Sparked%20in%20AI%20Automations-ff2d20?style=for-the-badge&logo=github" alt="AI Automations Contributions" />
-  <img src="https://img.shields.io/badge/Consistency-Weekly%20Builds-blue?style=for-the-badge" alt="Weekly Builds" />
-  <img src="https://img.shields.io/badge/Followers-Let's%20Grow%20Together-9cf" alt="Followers" />
-</p>
+--- 
 
-## 🤝 Contributors & Collaborations
-- Muhammad Hunain — Lead engineer, automation architect, and ongoing collaborator across every highlighted project and experiment.
-- Community contributors — Special thanks to peers who co-authored automation playbooks, paired on debugging sprints, and brightened the learning path.
+## 🗺 Experience Highlights
+- **Automation Studio Toolkit** — Built an internal low-code automation builder with prompt-driven components, Zapier-style triggers, and vector DB orchestration that reduced repetitive support work by 40%.
+- **AI Ops Dashboard** — Designed a GPT-powered incident cockpit with alert triage, Slack + PagerDuty routing, and automated postmortem briefs.
+- **Portfolio CMS Platform** — Deployed Next.js + Prisma + GitHub Actions pipeline that publishes instant previews, data-driven copy, and automated marketing content.
 
-## 🌱 Learning & Next Steps
-- Deepening neural search, multimodal retrieval, and AI automation patterns that stay grounded in real user problems.
-- Mentoring juniors on type-safe architectures, debugging rituals, and observability best practices.
-- Publishing weekly notes on LinkedIn/Dev.to about full-stack AI automation and productivity tooling.
+--- 
 
-## 📬 Let’s Connect
+## 🧮 Skills Flow
+| Layer | Tools |
+| --- | --- |
+| Front-end | React, Next.js, TypeScript, Tailwind, Chakra UI |
+| Back-end | Node.js, FastAPI, Express, PostgreSQL, Prisma, REST, GraphQL |
+| AI + Automation | LangChain, LLM APIs, OpenAI, Anthropic, vector DBs, Zapier, GitHub Actions |
+| Cloud & DevOps | AWS Lambda/S3/SQS, Azure Functions, Docker, Vercel, CI/CD, Observability (Sentry, Logflare) |
+
+--- 
+
+## 🔗 Collaborations & Contributions
+- Muhammad Hunain — Lead engineer, automation architect, and primary collaborator across every highlighted initiative.
+- Community contributors — special shout-out to people who helped co-author automation playbooks or joined pair-debugging sessions.
+- Weekly notes on LinkedIn/Dev.to keep your AI automation and productivity tooling skills sharp.
+
+--- 
+
+## 📬 Contact & Social
 - Portfolio: [hunainmemon.netlify.app](https://hunainmemon.netlify.app/)
 - LinkedIn: [linkedin.com/in/muhammad-hunain-0a025321a](https://www.linkedin.com/in/muhammad-hunain-0a025321a)
 - GitHub: [github.com/Muhammad-Hunain](https://github.com/Muhammad-Hunain)
